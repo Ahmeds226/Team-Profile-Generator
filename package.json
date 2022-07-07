@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Ahmeds226/Team-Profile-Generator/issues"
   },
-  "homepage": "https://github.com/Ahmeds226/Team-Profile-Generator#readme"
+  "homepage": "https://github.com/Ahmeds226/Team-Profile-Generator#readme",
+  "dependencies": {
+    "inquirer": "^9.0.0"
+  }
 }
